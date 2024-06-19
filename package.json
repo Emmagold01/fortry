@@ -1,0 +1,20 @@
+{
+  "name": "ortry",
+  "version": "1.0.0",
+  "description": "Portfolio Designer Webpage",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
+  },
+  "author": "Soyooye Emmanuel",
+  "license": "MIT",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "bootstrap": "^5.3.3",
+    "sass": "^1.77.6"
+  },
+  "dependencies": {
+    "install": "^0.13.0"
+  }
+}
