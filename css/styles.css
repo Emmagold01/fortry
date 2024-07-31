@@ -136,12 +136,6 @@ h6.fw-bold {
   opacity: 0.8;
 }
 
-.img-port {
-  height: 20rem;
-  width: 100%;
-  background-size: cover;
-}
-
 @media (max-width: 992px) {
   .navbar {
     padding: 5px 20px;
